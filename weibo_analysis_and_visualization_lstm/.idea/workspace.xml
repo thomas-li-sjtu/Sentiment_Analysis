@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7b1b9aa-5f1d-4903-a2d9-e5523272ae60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Content_Security/Visualize_Analysis/similar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Cluster/langconv.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Traditional_to_simplified/langconv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Cluster/prepro.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Cluster/prepro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/Bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/Bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/ad/advertise.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_data/advertise.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/ad/normal.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_data/normal.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/ad/stop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_data/stop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/ad/train.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/bayes_model/gnb.model" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/train/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/train/user_dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/Visualize_Analysis/wc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/Visualize_Analysis/wc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Content_Security/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Content_Security/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Content_Security" />
+  </component>
+  <component name="ProjectId" id="1j5j0QNqAKfbAWwA6hwonHMfFvr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CITrip_gpu" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\Sentiment_Analysis_ML\train" />
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\Sentiment_Analysis_ML\SVM\ad" />
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\ Traditional_to_simplified" />
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\Visualize_Analysis" />
+      <recent name="F:\PythonCode\PycharmCode\Content_Security" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\Visualize_Analysis" />
+      <recent name="F:\PythonCode\PycharmCode\Content_Security\Cluster" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Bayes">
+    <configuration name="Bayes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Content_Security" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/Bayes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="weibo-analysis-and-visualization" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weibo_analysis_and_visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weibo_analysis_and_visualization/graph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svm_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Content_Security" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Content_Security/Sentiment_Analysis_ML/SVM/svm_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Content_Security" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Content_Security" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Content_Security/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Content_Security" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Content_Security/Visualize_Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Content_Security/Visualize_Analysis/wc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Bayes" />
+        <item itemvalue="Python.svm_train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.graph" />
+        <item itemvalue="Python.wc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7b1b9aa-5f1d-4903-a2d9-e5523272ae60" name="Default Changelist" comment="" />
+      <created>1603100622240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603100622240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603262144678">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="548" y="235" key="#com.intellij.fileTypes.FileTypeChooser/74.0.1462.864@74.0.1462.864" timestamp="1603262144678" />
+    <state x="586" y="187" key="FileChooserDialogImpl" timestamp="1603335375497">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="586" y="187" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1603335375497" />
+    <state width="1441" height="78" key="GridCell.Tab.0.bottom" timestamp="1603335376582">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="78" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1603335376582" />
+    <state width="1441" height="78" key="GridCell.Tab.0.center" timestamp="1603335376582">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="78" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1603335376582" />
+    <state width="1441" height="78" key="GridCell.Tab.0.left" timestamp="1603335376582">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="78" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1603335376582" />
+    <state width="1441" height="78" key="GridCell.Tab.0.right" timestamp="1603335376582">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1441" height="78" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1603335376582" />
+    <state x="370" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603287708826">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="370" y="168" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/74.0.1462.864@74.0.1462.864" timestamp="1603287708826" />
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1603287687502">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="468" y="181" width="672" height="678" key="search.everywhere.popup/74.0.1462.864@74.0.1462.864" timestamp="1603287687502" />
+  </component>
+</project>
